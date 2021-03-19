@@ -1,0 +1,12 @@
+
+r
+java:S2629'"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ôî¦á
+r
+java:S2629("\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Œô®Ñ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±±™¨üÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œù¢‹þÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê—÷ûøÿÿÿÿ
+W
+java:S3457'"AFormat specifiers should be used instead of string concatenation.(ôî¦á
+W
+java:S3457("AFormat specifiers should be used instead of string concatenation.(Œô®Ñ
